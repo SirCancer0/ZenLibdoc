@@ -1,5 +1,5 @@
 # ZenLibdoc
-Hi stooped nigga nigga nigga nigga zen hub devvys well i gibe uhh eeeeeeeeehhhh my hot uiii docs ok thx
+Hi stooped zen hub devvys well i gibe uhh eeeeeeeeehhhh my hot uiii docs ok thx
 
 local Compkiller = loadstring(game:HttpGet("https://raw.githubusercontent.com/SirCancer0/Zenlib/refs/heads/main/ZenLib.luau"))();
 
